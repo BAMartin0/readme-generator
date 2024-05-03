@@ -18,7 +18,7 @@
   ## Usage
   A series of questions will be asked in the terminal that must be answered to generate the file. Once answered, the file will be located within the file location you are currently accessing.
 
-  Here's a video walkthrough ![](https://watch.screencastify.com/v/o5rNu1vmoIRX7Zh6Ld8s)
+  Here's a video walkthrough [Video Walkthrough](https://watch.screencastify.com/v/o5rNu1vmoIRX7Zh6Ld8s)
 
   ## License
   mit
