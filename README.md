@@ -1,8 +1,8 @@
-# d
-  ![](https://img.shields.io/badge/license-apache-blue.svg)
+# Read Me Generator
+  ![](https://img.shields.io/badge/license-bsl-blue.svg)
 
   ## Description
-  s
+  A more efficient way to create a read me file.
 
   ## Table of Contents
   [Installation](#installation)
@@ -13,26 +13,26 @@
   [Questions](#questions)
 
   ## Installation
-  a
+  first do this
 
   ## Usage
-  w
+  In order to use, do this.
 
   ## License
-  apache
-  This project is licensed under the apache license.
+  bsl
+  This project is licensed under the bsl license.
   
-  https://choosealicense.com/licenses/apache-2.0/
+  https://choosealicense.com/licenses/bsl-1.0/
 
   ## Credits
-  e
+  me myself and I
 
   ## Tests
   
   ## Questions
   Please reach me via email for further questions.
-  r
-  e
+  bamartin01
+  imbrittanyalexis@gmail.com
 
 
 
